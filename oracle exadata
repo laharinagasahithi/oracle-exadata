@@ -1,0 +1,5 @@
+Exadata Database Machine includes all the hardware needed to run Oracle Database.
+The database servers, storage servers and network are preconfigured, pretuned and pretested by Oracle engineers, eliminating the weeks of effort typically required to deploy a high performance system. 
+Extensive end-to-end testing ensures all components work together and there are no performance bottlenecks or single points of failure that can affect the complete system. 
+Exadata Database Machine also includes the Oracle Exadata System Software, which runs on both database servers and storage servers.
+Unique software algorithms in Oracle Exadata System Software implement database intelligence in storage, PCI-based flash, and the RDMA Network Fabric network to deliver higher performance and high capacity at lower costs than other platforms.
